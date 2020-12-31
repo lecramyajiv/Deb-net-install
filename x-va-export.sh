@@ -1,6 +1,5 @@
 # This should be run as normal user 
-
-
+# Make sure you are in the home user directory
 
 #!/bin/bash
 
