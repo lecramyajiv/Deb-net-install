@@ -4,4 +4,4 @@
 
 #!/bin/bash
 
-apt-get --no-install-recommends --no-install-suggests install acetoneiso synaptic gparted xarchiver spacefm-gtk3 porg
+apt-get --no-install-recommends --no-install-suggests install acetoneiso synaptic gparted xarchiver spacefm-gtk3 porg qps
