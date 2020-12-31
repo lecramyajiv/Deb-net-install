@@ -7,7 +7,7 @@
 
 #!/bin/bash
 
-apt-get --no-install-recommends --no-install-suggests install xorg x11-apps x11-utils x11-xserver-utils xorg-sgml-doctools xdg-user-dirs xdg-user-dirs-gtk xdg-utils 
+apt-get --no-install-recommends --no-install-suggests install xorg x11-apps x11-utils x11-xserver-utils xorg-sgml-doctools menu-xdg xdg-user-dirs xdg-user-dirs-gtk xdg-utils 
 
 
 
