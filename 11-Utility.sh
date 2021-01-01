@@ -3,4 +3,4 @@
 
 #!/bin/bash
 
-apt-get --no-install-recommends --no-install-suggests install gtkhash flameshot medit xournal 
+apt-get --no-install-recommends --no-install-suggests install gtkhash flameshot featherpad qterminal xournal 
