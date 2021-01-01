@@ -1,6 +1,7 @@
 # this needs to run as root
 # Development packages
 # We are only installing these packages because we will be compiling JWM from GIT
+# some packages might have been already installed
 
 
 #!/bin/bash
