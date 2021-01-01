@@ -1,6 +1,7 @@
 # This needs to run as root
-#doublecmd-qt and worker filemanager
-
+# doublecmd-qt and worker filemanager
+# go-mtpfs, disk-manager , jmtpfs, libmtp-runtime libmtp9, mtp-tools
+ 
 
 #!/bin/bash
 
