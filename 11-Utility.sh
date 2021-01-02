@@ -1,5 +1,6 @@
 # This should run as root
 # For Calc use Xcalc
+# Android file transfer
 
 #!/bin/bash
 
