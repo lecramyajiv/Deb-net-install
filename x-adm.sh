@@ -1,6 +1,8 @@
 # Admin commands needs to be run as root
 # Run after installing the virtualbox guest additions or after installing DE
 # if not installing in virtualbox then comment out vboxsf
+# change ben to your username
+
 
 
 #! /bin/bash
@@ -29,3 +31,4 @@ usermod -aG nogroup ben
 usermod -aG games ben
 usermod -aG vboxsf ben
 usermod -aG scanner ben
+usermod -ag kmem ben
