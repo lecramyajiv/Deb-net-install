@@ -16,3 +16,8 @@ To check if darkstat is running
 systemctl status darkstat.service
 
 place poweroff and reboot script in ~/.config/system. The system folder does not exist so we create them.
+
+if you are going run only jwm then add the following line to your xsession file 
+exec /usr/local/bin/jwm
+
+if there is no xsession file then create it in your home folder
