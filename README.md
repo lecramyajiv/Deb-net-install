@@ -6,6 +6,8 @@ If you are going to use kde or anyother DE then don't run 07b-dev.sh.
 
 For installing JWM run  ./jwm.sh && sudo ./jwm1.sh
 
+Install lightdm after installing everyother package
+
 You can change the screensaver by running xscreensaver-demo
 
 place the darkstat.service in /etc/systemd/system folder and run 
