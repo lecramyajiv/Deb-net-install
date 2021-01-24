@@ -14,3 +14,5 @@ systemctl enable darkstat.service
 
 To check if darkstat is running 
 systemctl status darkstat.service
+
+place poweroff and reboot script in ~/.config/system. The system folder does not exist so we create them.
