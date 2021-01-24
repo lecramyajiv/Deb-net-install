@@ -5,5 +5,5 @@
 
 #!/bin/bash
 
-apt-get --no-install-recommends --no-install-suggests install libgusb2 libusbredirhost1 libusbhid-common acetoneiso synaptic gparted xarchiver pcmanfm-qt qps gtk-theme-switch gtk-chtheme qt5ct ntfs-3g darkstat rss-glx xscreensaver xscreensaver-data xscreensaver-data-extra xscreensaver-gl xscreensaver-gl-extra gsimplecal pnmixer
+apt-get --no-install-recommends --no-install-suggests install libgusb2 libusbredirhost1 libusbhid-common acetoneiso synaptic gparted xarchiver pcmanfm-qt qps gtk-theme-switch gtk-chtheme qt5ct ntfs-3g darkstat rss-glx xscreensaver xscreensaver-data xscreensaver-data-extra xscreensaver-gl xscreensaver-gl-extra gsimplecal pasystray
 
