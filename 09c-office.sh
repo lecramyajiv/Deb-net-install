@@ -3,4 +3,4 @@
 
 #!/bin/bash
 
-apt-get --no-install-recommends --no-install-suggests install qpdfview qpdfview-djvu-plugin qpdfview-pdf-poppler-plugin qpdfview-ps-plugin qpdfview-translations xchm bookworm vym pdfarranger libreoffice-writer libreoffice-calc libreoffice-impress libreoffice-gtk3 libreoffice-gnome hunspell-en-au hunspell-en-ca hunspell-en-gb hunspell-en-med hunspell-en-us hunspell-en-za mythes-en-au mythes-en-us hyphen-en-gb hyphen-en-us
+apt-get --no-install-recommends --no-install-suggests install qpdfview qpdfview-djvu-plugin qpdfview-pdf-poppler-plugin qpdfview-ps-plugin qpdfview-translations xchm fbreader vym pdfarranger libreoffice-writer libreoffice-calc libreoffice-impress libreoffice-gtk3 libreoffice-gnome hunspell-en-au hunspell-en-ca hunspell-en-gb hunspell-en-med hunspell-en-us hunspell-en-za mythes-en-au mythes-en-us hyphen-en-gb hyphen-en-us
