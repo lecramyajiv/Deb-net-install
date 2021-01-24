@@ -2,3 +2,6 @@
 
 #!/bin/sh
 make install
+
+# touch ~/.xsession
+# echo "exec /usr/local/bin/jwm" >> ~/.xsession
