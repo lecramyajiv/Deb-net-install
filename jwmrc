@@ -59,6 +59,7 @@
         <Program icon="/usr/share/icons/Faenza/actions/32/system-run.png" label="GTK3 Themer">/usr/bin/gtk-theme-switch2 </Program>
         <Program icon="/usr/share/icons/Papirus/32x32/apps/qt5ct.svg"  label="QT5ct">/usr/bin/qt5ct</Program>
         <Program icon="/usr/share/icons/hicolor/48x48/apps/compton.png" label="Compton">/usr/bin/compton-conf</Program>
+	<Program icon="/usr/share/icons/Faenza/apps/32/xscreensaver.png" label="Screensaver">xscreensaver-demo</Program>
 	   <Program icon="/usr/share/icons/gnome-human/scalable/actions/top.svg" label="Tasks Viewer">/usr/bin/qterminal -e /usr/bin/top</Program>
 	   <Program icon="/usr/share/icons/Faenza/categories/scalable/package_network.svg" label="Network Monitor">firefox --new-window  localhost:667</Program>
 		<Program icon="/usr/share/icons/oxygen/base/16x16/actions/view-process-tree.png" label="Process Tree">/usr/bin/qterminal -e /usr/bin/pstree.x11</Program>
