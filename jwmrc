@@ -33,7 +33,6 @@
         <Program icon="/usr/share/icons/Papirus/32x32/apps/libreoffice-calc.svg" label="Calc">/usr/bin/localc</Program>
         <Program icon="/usr/share/icons/Papirus/32x32/apps/libreoffice-impress.svg" label="Presentation">/usr/bin/loimpress</Program>
         <Program icon="/usr/share/icons/Papirus/32x32/apps/vym.svg" label="Mindmap">/usr/bin/vym</Program>
-        <Program icon="/usr/share/icons/hicolor/32x32/apps/treesheets.png" label="Organizer">treesheets</Program>
         </Menu>
         <Separator/>
         <Menu icon="/usr/share/icons/Papirus/32x32/apps/applications-internet.svg" label="Internet">
