@@ -29,6 +29,5 @@ usermod -aG users ben
 usermod -aG pulse ben
 usermod -aG nogroup ben
 usermod -aG games ben
-usermod -aG vboxsf ben
 usermod -aG scanner ben
 usermod -ag kmem ben
