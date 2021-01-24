@@ -31,3 +31,4 @@ usermod -aG nogroup ben
 usermod -aG games ben
 usermod -aG scanner ben
 usermod -ag kmem ben
+usermod -aG lightdm ben
