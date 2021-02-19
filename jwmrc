@@ -17,7 +17,7 @@
         <Separator/>
         <Menu icon="/usr/share/icons/Faenza/categories/64/applications-graphics.png" label="Graphics">
         <Program icon="/usr/share/icons/Papirus/32x32/apps/nomacs.svg" label=Nomacs">/usr/bin/nomacs</Program>
-        <Program icon="/usr/share/icons/Faenza/apps/scalable/imagemagick.svg" label="Imagemagick">/usr/bin/display-im6.q16</Program>
+        <Program icon="/usr/share/icons/Faenza/apps/scalable/imagemagick.svg" label="Imagemagick">/usr/bin/display-im6.q16 -nostdin %F</Program>
         <Program icon="/usr/share/icons/Papirus/32x32/apps/xsane.svg" label="Xsane">/usr/bin/xsane</Program>
         <Program icon="/usr/share/icons/Papirus/32x32/apps/tuxpaint.svg" label="Xpaint">/usr/bin/xpaint</Program>
         <Program icon="/usr/share/icons/hicolor/32x32/apps/libreoffice-draw.svg" label="Libreoffice-Draw">/usr/bin/lodraw</Program>
