@@ -116,10 +116,13 @@
 	<item label="Audacious" icon="/usr/share/icons/Faenza/apps/32/audacious.png">
 		<action name="Execute"><execute>audacious</execute></action>
 	</item>
+	<item label="qmmp" icon="/usr/share/icons/Papirus/32x32/apps/qmmp.svg">
+		<action name="Execute"><execute>qmmp</execute></action>
+	</item>
+	<separator />
 	<item label="Smplayer" icon="/usr/share/icons/Faenza/apps/32/smplayer.png">
 		<action name="Execute"><execute>smplayer</execute></action>
 	</item>
-	<separator />
 	<item label="Vlc" icon="/usr/share/icons/Papirus/32x32/apps/vlc.svg">
 		<action name="Execute"><execute>vlc</execute></action>
 	</item>
