@@ -236,6 +236,7 @@
   	<item label="Disk Management" icon="/usr/share/pixmaps/disks.png">
   		<action name="Execute"><execute>usermount</execute></action>
   	</item>
+	<separator />
 	</menu>
 	<separator />
 	<menu id="exit" label="Exit" icon="/usr/share/icons/gnome-colors-common/32x32/actions/exit.png">
