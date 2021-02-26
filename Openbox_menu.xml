@@ -34,6 +34,7 @@
   <item label="Magnifier" icon="/usr/share/icons/oxygen/base/32x32/apps/kmag.png">
   	<action name="Execute"><execute>xmag</execute></action>
   </item>
+<separator />	  
 </menu>
 <separator />
 	<menu id="graphics" label="Graphics" icon="/usr/share/icons/Faenza/categories/64/applications-graphics.png">
@@ -57,6 +58,7 @@
 		<item label="Flameshot" icon="/usr/share/icons/hicolor/48x48/apps/flameshot.png">
 			<action name="Execute"><execute>flameshot</execute></action>
 		</item>
+		<separator />
 		</menu>
 <separator />
 	<menu id="Office" label="Office" icon="/usr/share/icons/Faenza/categories/32/redhat-office.png">
@@ -90,6 +92,7 @@
 		<item label="Minder" icon="/usr/share/icons/Papirus/32x32/apps/com.github.phase1geo.minder.svg">
 			<action name="Execute"><execute>/usr/bin/com.github.phase1geo.minder</execute></action>
 		</item>
+		<separator />
 	</menu>
 	<separator />
 	<menu id="Internet" label="Internet" icon="/usr/share/icons/Papirus/32x32/apps/applications-internet.svg">
@@ -106,6 +109,7 @@
 		<item label="Download Manager" icon="/usr/share/icons/Papirus/32x32/apps/xdman.svg">
 			<action name="Execute"><execute>/opt/xdman/xdman</execute></action>
 		</item>
+		<separator />
 	</menu>
 	<separator />
 <menu id="multimedia" label="Multimedia" icon="/usr/share/icons/Papirus/48x48/apps/multimedia.svg">
@@ -129,6 +133,7 @@
 	<item label="Winff" icon="/usr/share/icons/Papirus/32x32/apps/winff.svg">
 		<action name="Execute"><execute>winff</execute></action>
 	</item>
+	<Separator />
 </menu>
 <separator />
 <menu id="Utility" label="Utilities" icon="/usr/share/icons/Faenza/categories/32/applications-utilities.png">
@@ -162,6 +167,7 @@
 	<item label="Window Information" icon="/usr/share/icons/gnome/24x24/status/gtk-dialog-info.png">
 		<action name="Execute"><execute>xwininfo | xmessage -file -</execute></action>
 	</item>	
+	<Separator />
 	</menu>
 	<separator />
 <menu id="system" label="System" icon="/usr/share/icons/Faenza/devices/32/system.png">
@@ -253,6 +259,7 @@
   	<item label="Reboot" icon="/usr/share/icons/Papirus/32x32/apps/xfsm-reboot.svg">
   		<action name="Execute"><execute>/home/ben/.config/system/Reboot.sh</execute></action>
   	</item>
+	<separator />
 	</menu>
 	<separator />
 </openbox_menu>
